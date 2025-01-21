@@ -7,4 +7,4 @@ services:
       - "5432:5432"
     restart: always
     environment:
-      POSTGRES_PASSWORD: Leia@2324
+      POSTGRES_PASSWORD: 1234
